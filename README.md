@@ -12,7 +12,7 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
  
  
 - 👤 **Nome:** Alan Borba    
-- 🎂 **Idade:** 18   
+- 🎂 **Idade:** 18 anos
 - 📍 **Localização:** João Pessoa - Paraíba, Brasil    
 - 💻 **Stack:** Python, JavaScript, Html e Css      
 - 🎓 **Formação:** Estudando Engenharia de Software no IFPB (Conclusão em 2029)
