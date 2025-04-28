@@ -4,9 +4,7 @@
  
 ## 🌟 Informações Públicas 
  
-Meu nome é **Alan Borba**. Atualmente, moro em João Pessoa, Brasil e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀 
- 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2023 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝 
+Estudante de Engenharia de Software pelo Instituto Federal da Paraíba. Busco minha primeira oportunidade de estágio em desenvolvimento de software e desenvolvimento web, onde eu possa colocar minhas habilidades em prática e crescer com novos aprendizados e desafios. 
  
 ## 📝 Informações Detalhadas 
  
