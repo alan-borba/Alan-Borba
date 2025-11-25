@@ -36,19 +36,6 @@
 
 <br>
 
-## 📌 Experience
-
-### 🏢 Smartspace
-**Software Developer** `Atual`
-*Foco no desenvolvimento de software, criando soluções escaláveis e integradas.*
-
-### 🏢 Intelligentte Lab / Agência Quinze
-**Estagiário em Automação e Desenvolvimento** `jul/2025 – nov/2025`
-* **Intelligentte:** Atuação na engenharia de dados (PostgreSQL) e sustentação de Agentes de IA, com foco em refatoração de código e performance.
-* **Agência Quinze:** Desenvolvimento de automações e orquestração de APIs para otimização de fluxos operacionais e de marketing.
-
-<br>
-
 ## ⚡ About Me
 
 **Location** • João Pessoa, Paraíba, Brasil
