@@ -63,5 +63,5 @@
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/alan-borba"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
-  <a href="mailto:alanborba.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alanborba.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
