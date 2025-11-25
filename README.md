@@ -13,25 +13,25 @@
 
 **Programming Languages & Databases**
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
 <br>
 
 **Automation & AI Tools**
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-black?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" />
 </div>
 
 <br>
 
 **Tools & Management**
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-black?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-000000?style=for-the-badge&logo=clickup&logoColor=white" />
 </div>
 
 <br>
@@ -62,10 +62,6 @@
 ## 📱 Contact
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/alan-borba">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alanborba.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/alan-borba"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
+  <a href="mailto:alanborba.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
