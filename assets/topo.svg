@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="100" viewBox="0 0 830 100" role="img" aria-label="Linhas de código em movimento">
+  <defs>
+    <clipPath id="faixa"><rect width="830" height="100" rx="8"/></clipPath>
+    <linearGradient id="borda" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity="1"/>
+      <stop offset="0.3" stop-color="#000" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="830" height="100" rx="8" fill="#000"/>
+  <g clip-path="url(#faixa)">
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9" fill-opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -160" dur="9.6s" repeatCount="indefinite"/>
+      <text x="24" y="22">SELECT cliente, SUM(valor) FROM vendas GROUP BY 1;</text><text x="24" y="42">@app.post(&quot;/webhook&quot;)</text><text x="24" y="62">def receber(msg): return responder(msg.texto)</text><text x="24" y="82">if (intent === &quot;agendar&quot;) { flow.start(); }</text><text x="24" y="102">fetch(&quot;/api/pedidos&quot;).then(r =&gt; r.json())</text><text x="24" y="122">git commit -m &quot;Ajusta fluxo de atendimento&quot;</text><text x="24" y="142">CREATE INDEX idx_pedido_data ON pedidos (data);</text><text x="24" y="162">n8n -&gt; webhook -&gt; gateway -&gt; whatsapp</text>
+      <text x="24" y="182">SELECT cliente, SUM(valor) FROM vendas GROUP BY 1;</text><text x="24" y="202">@app.post(&quot;/webhook&quot;)</text><text x="24" y="222">def receber(msg): return responder(msg.texto)</text><text x="24" y="242">if (intent === &quot;agendar&quot;) { flow.start(); }</text><text x="24" y="262">fetch(&quot;/api/pedidos&quot;).then(r =&gt; r.json())</text><text x="24" y="282">git commit -m &quot;Ajusta fluxo de atendimento&quot;</text><text x="24" y="302">CREATE INDEX idx_pedido_data ON pedidos (data);</text><text x="24" y="322">n8n -&gt; webhook -&gt; gateway -&gt; whatsapp</text>
+      <text x="440" y="22">{ &quot;type&quot;: &quot;interactive&quot; }</text><text x="440" y="42">ALTER TABLE clientes ADD COLUMN origem text;</text><text x="440" y="62">npm run build &amp;&amp; npm test</text><text x="440" y="82">kb.search(pergunta, top_k=3)</text><text x="440" y="102">from fastapi import FastAPI</text><text x="440" y="122">WITH ranking AS (SELECT * FROM pedidos)</text><text x="440" y="142">await client.messages.send(to, template)</text><text x="440" y="162">docker compose up -d</text>
+      <text x="440" y="182">{ &quot;type&quot;: &quot;interactive&quot; }</text><text x="440" y="202">ALTER TABLE clientes ADD COLUMN origem text;</text><text x="440" y="222">npm run build &amp;&amp; npm test</text><text x="440" y="242">kb.search(pergunta, top_k=3)</text><text x="440" y="262">from fastapi import FastAPI</text><text x="440" y="282">WITH ranking AS (SELECT * FROM pedidos)</text><text x="440" y="302">await client.messages.send(to, template)</text><text x="440" y="322">docker compose up -d</text>
+    </g>
+    <rect width="830" height="100" fill="url(#borda)"/>
+  </g>
+</svg>
